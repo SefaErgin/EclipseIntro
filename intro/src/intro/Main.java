@@ -16,6 +16,7 @@ public class Main {
 		
 		System.out.println("");
 		
+		
 		if(dolarBugun<dolarDun) {
 			System.out.println("Dolar Düþtü Resmi");
 		}else if(dolarBugun>dolarDun) {
